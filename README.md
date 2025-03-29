@@ -14,12 +14,12 @@ I am experienced in working with languages like:
 - Javascript
 - HTML
 - CSS
+- php
 - Java
 
 I also have profeciency in:
 - MySQL 
 - sqlite
-- Kubeernates
 - Docker
 - Networking priciples
 
